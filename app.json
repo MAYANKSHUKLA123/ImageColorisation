@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "black_white_ml",
+    "slug": "black_white_ml",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "black_white_ml"
+}
